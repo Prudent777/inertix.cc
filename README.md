@@ -44,3 +44,12 @@ main {
 
 
 
+<?php include 'header.php'; ?>
+
+<!-- Contenu principal de la page -->
+
+<?php include 'footer.php'; ?>
+
+
+
+
