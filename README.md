@@ -40,4 +40,7 @@ main {
 /* Autres styles spécifiques au site */
 
 
+// Script pour ajouter des fonctionnalités dynamiques au site
+
+
 
