@@ -27,4 +27,17 @@
 </html>
 
 
+/* Styles pour l'en-tête, la navigation et le pied de page */
+header, nav, footer {
+    /* styles ici */
+}
+
+/* Styles pour les sections et éléments spécifiques du contenu principal */
+main {
+    /* styles ici */
+}
+
+/* Autres styles spécifiques au site */
+
+
 
