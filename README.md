@@ -1,4 +1,4 @@
-# inertix.cc
+# inertix.cc](https://inertix.cc/?ref=realVIN
 <!DOCTYPE html>
 <html>
 <head>
